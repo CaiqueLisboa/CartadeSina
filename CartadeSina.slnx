@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CartadeSina.Api/CartadeSina.Api.csproj" />
+  <Project Path="CartadeSina.Application/CartadeSina.Application.csproj" />
+  <Project Path="CartadeSina.Domain/CartadeSina.Domain.csproj" />
+  <Project Path="CartadeSina.Infrastructure/CartadeSina.Infrastructure.csproj" />
+</Solution>
